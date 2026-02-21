@@ -1,102 +1,44 @@
-# Sohan Patil's Portfolio
+# 👋 Hi there, I'm Sohan!
 
-![Animated Header Banner](header-banner.gif)
+## Animated Typing Header
+- Experience the animated typing header [here](https://github.com/sohan0031)
 
-## 🌍 Contact Information
-- **Name:** Sohan Patil  
-- **Location:** [Your Location]  
-- **Contact:** [Your Email]  
+## My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohan0031&count_private=true&show_icons=true&theme=radical)
 
----
+## Tech Stack
+### Frontend
+- HTML
+- CSS
+- JavaScript
 
-## 🎓 Education
-- **Pimpri Chinchwad College** - CGPA: 9.02  
-- **Zulal Bhilajirao Patil College** - HSC: 81.17%  
+### Backend
+- Node.js
+- Express
+- MongoDB
 
----
+### AI/ML
+- Python
+- TensorFlow
+- Scikit-learn
 
-## 💻 Technical Skills
-| Skill Set                     |   |  
-|-------------------------------|---|  
-| Python                        |   |  
-| Java                          |   |  
-| JavaScript                    |   |  
-| SQL                           |   |  
-| HTML                          |   |  
-| CSS                           |   |  
-| React                         |   |  
-| Node.js                       |   |  
-| Express                       |   |  
-| MongoDB                       |   |  
-| MySQL                         |   |  
-| OpenCV                        |   |  
-| TensorFlow                    |   |  
-| PyTorch                       |   |  
-| Pandas                        |   |  
-| NumPy                         |   |  
-| Scikit-learn                  |   |  
-| DSA                           |   |  
-| OOP                           |   |  
-| Database Design                |   |  
+### DevOps
+- Docker
+- Kubernetes
+- Jenkins
 
----
+## Featured Projects
+### AI/ML Projects
+- [Project 1: AI Image Classifier](#)
+- [Project 2: ML Regression Analysis](#)
 
-## 🧑‍💻 Work Experience
-**Software Development Intern** at PCCOE  
-- Developed Automated Face Attendance System using Python, OpenCV, and MySQL  
+### DevOps Projects
+- [Project 1: CI/CD Pipeline](#)
+- [Project 2: Containerized Applications](#)
 
----
+## Contribution Graph
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=sohan0031&theme=react-light)
 
-## 🔧 Projects
-1. **Proactive Crowd Management System**  
-   - Tools: YOLOv11, PyTorch, OpenCV  
-   - Accuracy: 81% F1 Score
-   
-2. **Airbnb Clone**  
-   - Tools: Node.js, Express, MongoDB, EJS, Passport.js  
-
-3. **Save and Serve Food Donation**  
-   - Tools: React, Node.js, MySQL  
-
-4. **Customer Churn Prediction**  
-   - Tools: Python, PyTorch, Flask  
-   - Accuracy: 94%  
-   - ROC-AUC: 0.99, F1-score: 0.89  
-   - Techniques: Ensemble Learning, DNN, XGBoost, SHAP
-
----
-
-## 📜 Certifications
-- **Database Management System** - NPTEL (Jan - Mar 2025)  
-- **Java Programming** - Udemy (Oct - Dec 2024)  
-
----
-
-## 👔 Leadership
-- Chief Marketing Officer - BeadShaft (2023-2024)  
-
----
-
-## 🏆 Hackathons
-- SIH Indradhanu PCCOE Hactopia (2023-2025)  
-
----
-
-## 🏅 Achievements
-- Top 5 in Problemathon  
-- 2nd Place in Abhidaya 2.0 BrutForce  
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohan0031&show_icons=true)
-
----
-
-## 🌐 Social Media Links
-- [LinkedIn](Your LinkedIn URL)  
-- [Twitter](Your Twitter URL)  
-
-## 🎉 Thank you for visiting my portfolio!  
-
----
+## Social Links
+- [LinkedIn](https://www.linkedin.com/in/sohan0031/)
+- [Twitter](https://twitter.com/sohan0031)
