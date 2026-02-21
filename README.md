@@ -1,99 +1,110 @@
-# Sohan Patil
+# Hello! 👋 I'm Sohan Patil
 
-![Profile](https://via.placeholder.com/150)
+![Typing Animation](https://raw.githubusercontent.com/SohaN0031/README-template-animated-typing/master/typing.gif)
+
+---
 
 ## About Me
 
-🎓 Full-Stack Developer | Data Analyst  
-📍 Pune, Maharashtra  
-📧 [patilsohan0031@gmail.com](mailto:patilsohan0031@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/your-linkedin) | [GitHub](https://github.com/sohan0031)
-
----
-
-## Summary
-
-Passionate Full-Stack Developer and Data Analyst skilled in transforming project requirements into software solutions, utilizing both frontend and backend technologies.
-
----
-
-## Education
-
-- **Pimpri Chinchwad College**  
-  CGPA: 9.02  
-- **Zulal Bhilajirao Patil College**  
-  HSC: 81.17%
+- 🌍 **Location:** Pune, Maharashtra
+- 📧 **Email:** [patilsohan0031@gmail.com](mailto:patilsohan0031@gmail.com)
+- 🎓 **Education:**  
+  - Pimpri Chinchwad College  
+     CGPA: 9.02  
+  - Zulal Bhilajirao Patil College  
+     HSC: 81.17%
 
 ---
 
 ## Technical Skills
 
-- **Languages:** Python, Java, JavaScript, SQL  
-- **Technologies:** HTML, CSS, React, Node.js, Express, MongoDB, MySQL, OpenCV, TensorFlow  
-- **Libraries/Frameworks:** Pandas, NumPy, Scikit-learn  
-- **Topics:** Data Structures and Algorithms, Object-Oriented Programming, Database Design
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-D50032?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
 ## Work Experience
 
-### Software Development Intern  
-**PCCOE**  
-*June - August 2025*  
-- Developed an Automated Face Attendance System using Python, OpenCV, and MySQL.
+### Software Development Intern at PCCOE  
+**Developed:** Automated Face Attendance System using Python, OpenCV, MySQL  
 
 ---
 
 ## Projects
 
 1. **Proactive Crowd Management System**  
-   - Implemented YOLOv11 with PyTorch and OpenCV for real-time crowd detection achieving an 81% F1-score.
-  
+   - **Technologies:** YOLOv11, PyTorch, OpenCV  
+   - **F1-Score:** 81%
+   - ![Project GIF](link_to_project_gif)  
+
 2. **Airbnb Clone**  
-   - Created using Node.js, Express.js, MongoDB, EJS, and Passport.js.
-  
-3. **Save and Serve**  
-   - A full-stack food donation platform utilizing React, Node.js, and MySQL.
-  
+   - **Technologies:** Node.js, Express, MongoDB, EJS, Passport.js  
+   - ![Project GIF](link_to_project_gif)  
+
+3. **Save and Serve Food Donation**  
+   - **Technologies:** React, Node.js, MySQL  
+   - ![Project GIF](link_to_project_gif)  
+
 4. **Customer Churn Prediction**  
-   - Leveraged Python, PyTorch, and Flask with 94% accuracy, achieving ROC-AUC 0.99 and F1-score 0.89 using ensemble learning (DNN, XGBoost, Logistic Regression) and SHAP for interpretability.
+   - **Technologies:** Python, PyTorch, Flask  
+   - **Accuracy:** 94% (ROC-AUC 0.99, F1-score 0.89)  
+   - Utilized ensemble learning, DNN, XGBoost, SHAP  
+   - ![Project GIF](link_to_project_gif)  
 
 ---
 
 ## Certifications
 
-- **Database Management System** (NPTEL)  
-  January - March 2025  
-- **Learn Java Programming** (Udemy)  
-  October - December 2024
+- Database Management System - NPTEL  
+- Java Programming - Udemy  
 
 ---
 
 ## Leadership
 
-- **Chief Marketing Officer**  
-**BeadShaft Student Startup**  |  2023-2024
+- **Chief Marketing Officer** at BeadShaft (2023-2024)  
 
 ---
 
 ## Hackathon Participation
 
-- **SIH Indradhanu**  
-- **PCCOE Hactopia**  |  2023-2025
+- SIH Indradhanu, PCCOE  
+- Hactopia (2023-2025)  
 
 ---
 
 ## Achievements
 
-- **PCCOE Techfest:**  
-  - Top 5 Problemathon  
-  - 2nd Place Abhidaya 2.0  
-  - **BrutForce**
+- Top 5 in Problemathon  
+- 2nd Place in Abhidaya 2.0 BrutForce event  
 
 ---
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohan0031&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohan0031&show_icons=true&hide_title=true&count_private=true&hide=prs,issues&theme=gruvbox)
 
-![Contributions Graph](https://github-readme-streak-stats.herokuapp.com/?user=sohan0031&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohan0031&theme=gruvbox&hide_border=true)
+
+---
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/sohan0031)  
+- [Email](mailto:patilsohan0031@gmail.com)  
+
+---
